@@ -2,9 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandojc&label=Profile%20views&color=0e75b6&style=flat" alt="orlandojc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/orlandoojc" target="blank"><img src="https://img.shields.io/twitter/follow/orlandoojc?logo=twitter&style=for-the-badge" alt="orlandoojc" /></a> </p>
+<h3 align="center">A web developer from Mexico </h3>
+
+- 🔭 I’m currently working on **own projects with MERN Stack**
+
+- 🌱 I’m currently learning **TypeScript **
 
 - 📫 How to reach me **cuximyamaorlandodejesus@gmail.com**
+
+- ⚡ I'm studiyng systems engineering.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
